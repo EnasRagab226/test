@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1635805185 source:c:\users\microsoft\documents\sum two numbers\main.cpp
+	<iostream>
+	<fstream>
+
